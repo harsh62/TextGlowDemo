@@ -5,6 +5,6 @@ iPhone OS’s UILabel provides basic shadowing properties which can be used to c
 
 Recently I needed to create a “glowing” text effect – essentially a soft shadow without the offset – so I wrote a simple UILabel subclass which let me specify an offset, colour and blur amount.
 
-
+![alt tag](http://www.redrobotstudios.com/blog/wp-content/uploads/2010/04/glow1.png)
 
 The screenshot shows a how the class can be used to create a glow effect but it’s equally easy to create soft shadows for your text.
